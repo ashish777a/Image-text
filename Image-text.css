@@ -9,6 +9,9 @@
     display: flex;
     
 }
+header li{
+    list-style: none
+}
 .img{
     background-image: url(images/pexels-valiphotos-589840.jpg);
     height: 100vh ;
